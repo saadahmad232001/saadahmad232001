@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saadahmad
 - 👀 I’m interested in becoming an expert at coding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (email : saad.u.ahmad-1@ou.edu)
 
 <!---
